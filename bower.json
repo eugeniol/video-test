@@ -1,0 +1,21 @@
+{
+  "name": "video-test",
+  "description": "",
+  "main": "server.js",
+  "authors": [
+    "Eugenio Lattanzio <eugenio63@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "video.js": "^5.13.0",
+    "bootstrap": "^3.3.7"
+  }
+}
